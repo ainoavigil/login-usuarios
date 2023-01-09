@@ -1,0 +1,9 @@
+# aqui pondremos los elementos que no queremos que sean parte del repositorio (que no se vean)
+
+dist/
+
+node_modules/
+
+server.log
+
+claves.md 
